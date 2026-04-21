@@ -2,7 +2,7 @@
 
 ## 1. Schema bloc
 
-![Schema Bloc](Images/schema_bloc.jpg)
+![Schema Bloc](Images/schema_bloc.jpeg)
 
 ---
 
