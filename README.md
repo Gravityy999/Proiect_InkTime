@@ -98,7 +98,7 @@ Autonomie = 100 mAh / 365 µA ≈ 274 ore
 ---
 
 ![PCB 2D](Images/poza_pcb_2D.png)
-![PCB 3D](Images/pcb_3D.png)
+![PCB 3D](Images/poza_pcb_3D.png)
 ![Carcasa](Images/poza_pcb3d_cu_carcasa.png)
 
 ---
